@@ -1,0 +1,27 @@
+.line{
+    background-color: black;
+height: 6px;
+width: 70px;
+margin: 8px auto;
+}
+body{ 
+    text-align: center;
+}
+#app{
+    background-color: rgb(5, 139, 139);
+}
+#game{
+    background-color: rgb(68, 132, 132);
+}
+#bot{
+    background-color: rgb(40, 89, 89);
+}
+#myCarousel
+{
+    background-color: rgb(68, 132, 132);
+}
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
